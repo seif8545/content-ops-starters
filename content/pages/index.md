@@ -116,7 +116,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: What's next.
-        subtitle: Faster
+        subtitle: This is just wishful thinking.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
