@@ -40,7 +40,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "WHAT'S NEXT",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
