@@ -67,10 +67,13 @@ sections:
       - type: FeaturedItem
         title: Our Milestones
         subtitle: The things we've achieved together.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I'd love to show pictures of stuff long before this, but for obvious
+          reasons I can't. What I can do, though, is talk about it forever!
+
+
+          (Hopefully one day we can add those pictures to this, if you can smell
+          what the rock is cooking)
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
