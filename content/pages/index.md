@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/IMG_9113.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: Soufy and Youmie doing what they do best!
       elementId: ''
       type: ImageBlock
     badge:
