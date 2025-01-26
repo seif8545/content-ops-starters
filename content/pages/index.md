@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Our Milestones
-        subtitle: Numbers Done
+        subtitle: The things we've achieved together.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
