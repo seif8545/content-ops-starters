@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: I love you forever princess <3
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Happy anniversary my world. I love you so much, words wouldn't do it
+      justice. I know we say stuff like this a lot, but I well and truly mean
+      it. Ana habetek, w bahebek, w hafdal ahebek. Tool mana 3esht bahebek, tool
+      mana ayesh bahebek, w ba3d mamoot hafdal ahebek.
+
+      You're my whole world and then more, my baby forever.
     actions:
       - label: Get started
         altText: ''
