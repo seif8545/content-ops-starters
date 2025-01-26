@@ -73,7 +73,8 @@ sections:
 
 
           (Hopefully one day we can add those pictures to this, if you can smell
-          what the rock is cooking)
+          what the rock is
+          cooking)![](https://preview--7yearsofyoumie-4e6f1.stackbit.dev/_static/app-assets/public/images/1470917828-rock-eyebrow.gif)
         actions: []
         elementId: null
         colors: bg-neutral-fg-dark
