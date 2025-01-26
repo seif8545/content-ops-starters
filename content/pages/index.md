@@ -56,7 +56,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: 'We have 3 of them right here:'
       color: text-dark
       styles:
         self:
