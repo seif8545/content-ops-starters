@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: A quick rundown on each section
       color: text-primary
       styles:
         self:
