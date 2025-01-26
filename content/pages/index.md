@@ -117,10 +117,11 @@ sections:
         type: FeaturedItem
       - title: What's next.
         subtitle: This is just wishful thinking.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Now this section is purely for me to wish and pray. Begad ya yomna I
+          want you to be mine forever, I can't imagine life without you, I want
+          to stay with you for the rest of my life. Now it's time to check gift
+          number 1!
         image:
           url: /images/question-mark-icon-free-vector.jpg
           altText: Featured icon three
