@@ -99,10 +99,12 @@ sections:
               borderRadius: x-large
       - title: Favorite things about you.
         subtitle: 'The way you make everything fun, for starters.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Of course, a truly comprehensive list of this would be impossible to
+          make, but we can try!
+
+          There's so so so so so many, so I'll settle for just a few. Check the
+          section to find out more.
         image:
           url: /images/IMG_3293.jpg
           altText: Featured icon two
