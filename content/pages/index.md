@@ -241,7 +241,7 @@ sections:
     subtitle: Some opinions on us..
     items:
       - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
-        tagline: KOSHO!
+        tagline: ''
         subtitle: 'Kisho, 2025'
         text: >
           Professional Cat Expert, Samar Atef, has translated this into "I love
