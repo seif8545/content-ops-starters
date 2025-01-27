@@ -297,7 +297,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/IMG_1335.jpg
           altText: Placeholder Image
           styles:
             self:
