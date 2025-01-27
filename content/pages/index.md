@@ -291,7 +291,7 @@ sections:
       But one thing I can do, is try. Try as hard as it is humanely possible.
       Because that is what you deserve.
     items:
-      - title: Feature Item One
+      - title: The wind and dust in my eyes.
         tagline: Dahab 2024
         subtitle: This is the item subtitle
         text: |
