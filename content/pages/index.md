@@ -177,7 +177,7 @@ sections:
       - url: /images/IMG_2870_resized.jpg
         altText: Soufy & Youmie Marassi
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/IMG_1160_resized.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
