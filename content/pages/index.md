@@ -293,7 +293,7 @@ sections:
     items:
       - title: The wind and dust in my eyes.
         tagline: Dahab 2024
-        subtitle: This is the item subtitle
+        subtitle: Yet they see nothing except how beautiful you are.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
