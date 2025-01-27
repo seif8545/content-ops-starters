@@ -380,11 +380,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'I''m a human, and not perfect.'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Here's a way to officially complain if I ever annoy you, make you mad, sad
+      or anything. These will be checked periodically by our admins.
+
+
+      (I hope you never have to use it!)
+
     media:
       fields:
         - name: name
