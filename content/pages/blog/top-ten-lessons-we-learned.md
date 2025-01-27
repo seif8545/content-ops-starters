@@ -6,7 +6,7 @@ excerpt: >-
   2557 days. WOW! The idea itself seems crazy - can you believe TikTok didn't
   even exist?
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/IMG_9640_(2).jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
