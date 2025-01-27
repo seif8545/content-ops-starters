@@ -171,7 +171,7 @@ sections:
         textAlign: center
   - subtitle: 'Quick slideshow of some of my fav moments (that I can show, BLUGH!)'
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/IMG_1674_resized.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/IMG_2870_resized.jpg
