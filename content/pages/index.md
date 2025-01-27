@@ -292,7 +292,7 @@ sections:
       Because that is what you deserve.
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: Dahab 2024
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
