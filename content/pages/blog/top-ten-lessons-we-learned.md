@@ -2,7 +2,9 @@
 title: Our most recent one.
 slug: top-ten-lessons-we-learned
 date: '2025-01-29'
-excerpt: 2557 days. WOW! The idea itself seems crazy -
+excerpt: >-
+  2557 days. WOW! The idea itself seems crazy - can you believe TikTok didn't
+  even exist?
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
