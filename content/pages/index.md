@@ -376,7 +376,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: مر
+      text: مره
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
