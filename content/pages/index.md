@@ -341,7 +341,7 @@ sections:
         type: FeaturedItem
       - title: 'My World, and then some.'
         tagline: Sokhna 2023
-        subtitle: This is the item subtitle
+        subtitle: 'One thing I love, is our vacations.'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
