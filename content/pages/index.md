@@ -243,10 +243,12 @@ sections:
       - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
         tagline: KOSHO!
         subtitle: 'Kisho, 2025'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Professional Cat Expert, Samar Atef, has translated this into "I love
+          wet food, my mommy and playing with Soufy. Please stay together
+          forever!"
+
+          You'll just have to trust me this happened.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
