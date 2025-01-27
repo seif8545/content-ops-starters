@@ -183,7 +183,7 @@ sections:
       - url: /images/IMG_3258_resized.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/IMG_9637_resized.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
