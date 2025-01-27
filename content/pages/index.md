@@ -294,8 +294,9 @@ sections:
       - title: The wind and dust in my eyes.
         tagline: Dahab 2024
         subtitle: Yet they see nothing except how beautiful you are.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          There's nothing in this world that can take you away from me <3
+
         image:
           url: /images/IMG_1335.jpg
           altText: Placeholder Image
