@@ -287,7 +287,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      But one thing I can do, is try. Try as hard as it is humanely possible.
+      Because that is what you deserve.
     items:
       - title: Feature Item One
         tagline: This is the tagline
