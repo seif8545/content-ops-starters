@@ -242,7 +242,7 @@ sections:
     items:
       - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
         tagline: KOSHO!
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Kisho, 2025'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
