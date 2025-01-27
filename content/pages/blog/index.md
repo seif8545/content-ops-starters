@@ -8,7 +8,7 @@ topSections:
       text: 'Not all of these can have pictures, as you know, GRRRRR'
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'Anywayssss, I''ll try to make it work.'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
