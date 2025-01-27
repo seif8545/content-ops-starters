@@ -1,7 +1,7 @@
 ---
 title: Here is... my youmie... looking pretty again?
 slug: case-study-2
-date: '2024-02-16'
+date: '2024-02-23'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
