@@ -180,7 +180,7 @@ sections:
       - url: /images/IMG_1160_resized.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/IMG_3258_resized.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
