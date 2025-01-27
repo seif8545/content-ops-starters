@@ -175,7 +175,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/IMG_2870_resize.jpg
-        altText: Soufy & Youmie Marasso
+        altText: Soufy & Youmie Marassi
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
