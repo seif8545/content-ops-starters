@@ -339,7 +339,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: 'My World, and then some.'
         tagline: Sokhna 2024
         subtitle: This is the item subtitle
         text: >
