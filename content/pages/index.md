@@ -317,7 +317,7 @@ sections:
         type: FeaturedItem
       - title: 'A hint of times to come :)'
         tagline: Ramadan 2024
-        subtitle: This is the item subtitle
+        subtitle: 'May we celebrate every event together, forever.'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
