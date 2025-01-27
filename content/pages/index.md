@@ -318,8 +318,9 @@ sections:
       - title: 'A hint of times to come :)'
         tagline: Ramadan 2024
         subtitle: 'May we celebrate every event together, forever.'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          I love you forever, and want you with me forever.
+
         image:
           url: /images/IMG_1894.jpg
           altText: Placeholder image
