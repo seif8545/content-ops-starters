@@ -238,7 +238,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Some of our favorite things
+    subtitle: A quote from our favorite creature!
     items:
       - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
         tagline: KOSHO!
