@@ -174,7 +174,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/IMG_2870_resize.jpg
+      - url: /images/IMG_2870_resized.jpg
         altText: Soufy & Youmie Marassi
         type: ImageBlock
       - url: /images/wellster-logo.svg
