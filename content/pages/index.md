@@ -279,7 +279,9 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: >-
+        No gift or website or whatever can suffice just how much I well and
+        truly love you.
       color: text-primary
       styles:
         self:
