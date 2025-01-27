@@ -238,7 +238,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Some opinions on us..
+    subtitle: Here's from our favorite furry friend..
     items:
       - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
         tagline: ''
