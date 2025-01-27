@@ -250,7 +250,7 @@ sections:
 
           You'll just have to trust me this happened.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_3886.jpg
           altText: Maria Walters
           styles:
             self:
