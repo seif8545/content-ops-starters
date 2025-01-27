@@ -342,9 +342,8 @@ sections:
       - title: 'My World, and then some.'
         tagline: Sokhna 2023
         subtitle: 'One thing I love, is our vacations.'
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          Here's to hoping our vacations get bigger and longer... wink wink
         image:
           url: /images/IMG_9137.jpg
           altText: Placeholder image
