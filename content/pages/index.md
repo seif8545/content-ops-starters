@@ -175,7 +175,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/IMG_2870_resize.jpg
-        altText: Telus logo
+        altText: Soufy & Youmie Marasso
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
