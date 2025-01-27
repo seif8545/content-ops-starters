@@ -25,7 +25,7 @@
             "links": [
                 {
                     "label": "OUR MILESTONES",
-                    "url": "/",
+                    "url": "/blog",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
