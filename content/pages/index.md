@@ -315,7 +315,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: 'A hint of times to come :)'
         tagline: Ramadan 2024
         subtitle: This is the item subtitle
         text: |
