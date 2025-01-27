@@ -240,9 +240,7 @@ sections:
     title: null
     subtitle: Some of our favorite things
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: '“Meow meow meow meow meow, meow meow meow, meow meow. MEOW!”'
         tagline: KOSHO!
         subtitle: 'Maria Walters, Company'
         text: >-
