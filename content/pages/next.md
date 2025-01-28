@@ -54,7 +54,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Winter 2027
-        subtitle: An Engagement
+        subtitle: Engagementt
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
