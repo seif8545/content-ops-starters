@@ -1,14 +1,14 @@
 ---
 type: PostLayout
-title: How to Write a Blog Post That Will Get You More Traffic
+title: 2 year anniversary!
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-01-18'
+date: '2020-01-29'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  This is even more random. But there isn't much I can do. I remember how cute
+  this was, and how happy we were with it. We've lived through so much, and I
+  can't wait to see so much more. I love you forever.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/344c1752-2ef3-432a-a2bf-6e2cc454f53b.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:

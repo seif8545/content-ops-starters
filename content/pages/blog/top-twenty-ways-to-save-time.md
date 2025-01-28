@@ -1,13 +1,13 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: Our 3rd Anniversary!
 slug: top-twenty-ways-to-save-time
-date: '2023-03-25'
+date: '2021-01-27'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  This is the only photo I can use, but it says so much. I had so much fun that
+  day, it felt soo special to me. Seeing the old tickets always kills me because
+  they've changed 3 different times since then. 3!
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/1bd6b6c4-e4cf-4268-a6a0-490a00d53c20.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
