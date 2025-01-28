@@ -120,8 +120,7 @@ sections:
         text: >
           Now this section is purely for me to wish and pray. Begad ya yomna I
           want you to be mine forever, I can't imagine life without you, I want
-          to stay with you for the rest of my life. Now it's time to check gift
-          number 1!
+          to stay with you for the rest of my life. 
         image:
           url: /images/question-mark-icon-free-vector.jpg
           altText: Featured icon three
