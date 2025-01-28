@@ -3,7 +3,10 @@ type: PostLayout
 title: 2 year anniversary!
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2020-01-29'
-excerpt: This is even more random.
+excerpt: >-
+  This is even more random. But there isn't much I can do. I remember how cute
+  this was, and how happy we were with it. We've lived through so much, and I
+  can't wait to see so much more. I love you forever.
 featuredImage:
   url: /images/344c1752-2ef3-432a-a2bf-6e2cc454f53b.JPG
   altText: Thumbnail
