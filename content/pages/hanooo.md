@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: HA NOOOOOO
       color: text-dark
-    subtitle: Be in good company
+    subtitle: MARFOOOOOOD
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
