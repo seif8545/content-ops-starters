@@ -3,9 +3,8 @@ title: The day my baby became a hijabi.
 slug: life-of-our-development-team
 date: '2023-04-02'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Forever proud of my love <3. You have no idea how happy I was that day. I love
+  you forever princess!
 featuredImage:
   url: /images/IMG_2388.jpg
   altText: Thumbnail
