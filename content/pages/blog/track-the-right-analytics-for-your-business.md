@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: '4 '
+title: 4 year anniversary!
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-
