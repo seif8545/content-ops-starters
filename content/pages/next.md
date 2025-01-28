@@ -15,7 +15,7 @@ sections:
       represent our love.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Summer 2026
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
