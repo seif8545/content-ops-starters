@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: This website is not *just* an anniversary gift
       color: text-dark
       styles:
         self:
