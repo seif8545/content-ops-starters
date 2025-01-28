@@ -145,10 +145,9 @@ sections:
         title: 'I love so many things about you, I can''t count.'
         tagline: ''
         subtitle: ''
-        text: >+
-          You're there for everyone in your life, and it's appreciated more than
-          you know.
-
+        text: >
+          I love you forever and ever, and simple words can't do you justice.
+          It's time for gift #2 !
         image:
           type: ImageBlock
           altText: Maria Walters
