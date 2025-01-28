@@ -33,7 +33,7 @@
                 },
                 {
                     "label": "FAVORITE THINGS ABOUT YOU",
-                    "url": "/careers",
+                    "url": "/things",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
