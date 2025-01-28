@@ -1,7 +1,7 @@
 ---
 title: 1 year anniversary
 slug: five-tips-for-starting-a-startup
-date: '2023-03-18'
+date: '2019-01-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
