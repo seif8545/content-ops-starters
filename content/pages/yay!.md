@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: TOHFA!
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Rabena yekhaleky leya ya amar.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
