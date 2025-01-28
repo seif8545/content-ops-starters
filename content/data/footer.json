@@ -27,7 +27,7 @@
             },
             {
                 "label": "What's Next",
-                "url": "/",
+                "url": "/next",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
