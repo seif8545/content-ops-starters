@@ -7,7 +7,7 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/bbbed98841af444eb8c82d4286361195.webp
+  url: /images/1bd6b6c4-e4cf-4268-a6a0-490a00d53c20.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
