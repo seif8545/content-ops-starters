@@ -17,10 +17,9 @@ sections:
       - type: FeaturedItem
         title: Summer 2026
         subtitle: Our first official step.
-        text: >
-          It's always nice to have a plan, and I want things like this.
-          Inshallah this is what I hope and aim for.
-
+        text: >+
+          <div style="text-align: right">It's always nice to have a plan, and I
+          want things like this. Inshallah this is what I hope and aim for.
 
           1\. بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
@@ -36,6 +35,10 @@ sections:
 
           7\. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ
           عَلَيْهِمْ وَلَا الضَّالِّينَ
+
+
+          </div>
+
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
