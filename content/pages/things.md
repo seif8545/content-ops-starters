@@ -89,7 +89,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: The way you make people feel better about themselves.
+        title: Just how much you care and want to be successful.
         tagline: ''
         subtitle: ''
         text: >+
