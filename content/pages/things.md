@@ -6,7 +6,7 @@ sections:
     subtitle: Just a few of my favorite things about you...
     items:
       - type: FeaturedItem
-        title: The way you make people feel better about themselves.
+        title: The way you
         tagline: ''
         subtitle: ''
         text: >+
