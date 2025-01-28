@@ -17,10 +17,10 @@ sections:
       - type: FeaturedItem
         title: Summer 2026
         subtitle: Our first official step.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          It's always nice to have a plan, and I want things like this.
+          Inshallah this is what I hope and aim for.
+
         image:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
