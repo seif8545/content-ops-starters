@@ -9,14 +9,7 @@ sections:
       color: text-dark
     subtitle: MARFOOOOOOD
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_1632.jpg
