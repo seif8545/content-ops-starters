@@ -6,9 +6,7 @@ sections:
     subtitle: Just a few of my favorite things about you...
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: The way you make people feel better about themselves.
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
