@@ -4,9 +4,8 @@ title: 4 year anniversary!
 slug: track-the-right-analytics-for-your-business
 date: '2022-01-29'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  I think you can tell finding pictures for this isn't too easy. This day was so
+  nice! Cairoma, the museum, tohfa! I love you forever.
 featuredImage:
   url: /images/IMG_0497.JPG
   altText: Thumbnail
