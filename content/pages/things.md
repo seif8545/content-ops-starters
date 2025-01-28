@@ -44,7 +44,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
           altText: Jane Doe
           styles:
             self:
