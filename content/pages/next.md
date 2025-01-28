@@ -79,7 +79,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Winter 2028
-        subtitle: Faster
+        subtitle: Wedding
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
