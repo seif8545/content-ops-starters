@@ -103,7 +103,7 @@ sections:
       - type: Button
         label: Good plan!
         altText: ''
-        url: /
+        url: /Yay!
         showIcon: false
         icon: arrowRight
         iconPosition: right
