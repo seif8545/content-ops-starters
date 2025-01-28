@@ -8,9 +8,9 @@ sections:
       text: TOHFA!
       color: text-dark
     subtitle: Rabena yekhaleky leya ya amar.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |+
+      I love you forever my baby.
+
     actions:
       - type: Button
         label: Get started
