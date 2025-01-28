@@ -10,8 +10,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          You're there for everyone in your life, and it's appreciated more than
-          you know.
+          Just knowing you support me makes me feel like I can break through
+          walls. I feel like I can do anything I put my mind to because of you.
 
         image:
           type: ImageBlock
