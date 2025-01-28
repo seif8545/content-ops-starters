@@ -142,6 +142,33 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: The way you make people feel better about themselves.
+        tagline: ''
+        subtitle: ''
+        text: >+
+          You're there for everyone in your life, and it's appreciated more than
+          you know.
+
+        image:
+          type: ImageBlock
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
