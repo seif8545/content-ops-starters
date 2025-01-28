@@ -1,7 +1,7 @@
 ---
 title: Our 3rd Anniversary!
 slug: top-twenty-ways-to-save-time
-date: '2021-01-25'
+date: '2021-01-27'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
