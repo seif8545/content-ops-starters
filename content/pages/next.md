@@ -80,10 +80,10 @@ sections:
       - type: FeaturedItem
         title: Winter 2028
         subtitle: Wedding
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          The last one. The start of our new lives. May Allah bring this day and
+          fill it with happiness and joy.
+
         image:
           type: ImageBlock
           altText: Featured icon three
