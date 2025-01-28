@@ -110,7 +110,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Bad plan.
         altText: ''
         url: /
         showIcon: false
