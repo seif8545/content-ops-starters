@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: HA NOOOOOO
       color: text-dark
-    subtitle: MARFOOOOOOD
+    subtitle: MARFOOOOOOD!
     text: ''
     actions: []
     media:
