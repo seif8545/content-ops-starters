@@ -2,7 +2,7 @@
 type: PostLayout
 title: 5 years of youmie!
 slug: what-is-a-design-system
-date: '2023-01-14'
+date: '2023-01-29'
 excerpt: >-
   A Design System is a comprehensive set of standards, principles, and tools
   that guide the design and development of a product or service. It provides a
