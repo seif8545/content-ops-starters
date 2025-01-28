@@ -36,10 +36,12 @@ sections:
         title: The way you look.
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          You are incredibly beautiful.
+
+          Maybe you don't see it. But you are. In every sense of the world, you
+          are absolutely, incredibly pretty. 
+
         image:
           type: ImageBlock
           altText: Jane Doe
