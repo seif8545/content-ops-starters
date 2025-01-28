@@ -3,7 +3,7 @@ type: PageLayout
 title: Fav things
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Just a few of my favorite things about you...
     items:
       - type: FeaturedItem
         title: >-
