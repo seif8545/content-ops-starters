@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/da8b32c3-838f-4926-9323-75e14e4bee7d.JPG
+      url: /images/IMG_0939_(1).jpg
       altText: Dope design preview
     badge:
       type: Badge
