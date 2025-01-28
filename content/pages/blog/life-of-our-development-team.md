@@ -1,7 +1,7 @@
 ---
 title: The day my baby became a hijabi.
 slug: life-of-our-development-team
-date: '2023-04-29'
+date: '2023-04-02'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
   earum corporis id Quis esse est galisum officiis accusantium enim et
