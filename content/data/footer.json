@@ -19,7 +19,7 @@
             },
             {
                 "label": "Favorite things about you",
-                "url": "/pricing",
+                "url": "/things",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
