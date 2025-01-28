@@ -115,7 +115,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: The way you make people feel better about themselves.
+        title: I love your sense of humour.
         tagline: ''
         subtitle: ''
         text: >+
