@@ -3,9 +3,9 @@ title: 1 year anniversary
 slug: five-tips-for-starting-a-startup
 date: '2019-01-29'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  I know this is an incredibly random pic, but its the best I could find. I
+  remember this time in our life, 3asafeer el gannah. I loved you then, I love
+  you now, and I will always love you.
 featuredImage:
   url: /images/35e4dce8-de03-4ecd-88bb-f28d1953879c.JPG
   altText: Thumbnail
