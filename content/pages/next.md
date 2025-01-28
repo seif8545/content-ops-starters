@@ -112,7 +112,7 @@ sections:
       - type: Button
         label: Bad plan.
         altText: ''
-        url: /
+        url: /hanooo
         showIcon: false
         icon: arrowRight
         iconPosition: right
