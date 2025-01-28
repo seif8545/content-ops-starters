@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: HA NOOOOOO
+      text: HA NOOOOOOO
       color: text-dark
     subtitle: MARFOOOOOOD!
     text: ''
