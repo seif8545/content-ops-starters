@@ -1,5 +1,5 @@
 ---
-title: The day it all started.
+title: The day my baby became a hijabi.
 slug: life-of-our-development-team
 date: '2018-01-29'
 excerpt: >-
