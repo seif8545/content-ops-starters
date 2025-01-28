@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      I want it to be like our online diary, recording stuff that show and
+      represent our love.
     items:
       - type: FeaturedItem
         title: 500k
