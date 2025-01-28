@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Meet the team
+      text: Some of my favorite things about you.
       color: text-dark
       styles:
         self:
