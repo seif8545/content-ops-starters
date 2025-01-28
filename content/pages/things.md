@@ -142,7 +142,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: The way you make people feel better about themselves.
+        title: 'I love so many things about you, I can''t count.'
         tagline: ''
         subtitle: ''
         text: >+
