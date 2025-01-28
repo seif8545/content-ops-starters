@@ -8,9 +8,8 @@ sections:
       text: TOHFA!
       color: text-dark
     subtitle: Rabena yekhaleky leya ya amar.
-    text: |+
-      I love you forever my baby.
-
+    text: |
+      I love you forever my baby. <3
     actions: []
     media:
       type: ImageBlock
