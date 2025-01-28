@@ -19,7 +19,22 @@ sections:
         subtitle: Our first official step.
         text: >+
           It's always nice to have a plan, and I want things like this.
-          Inshallah this is what I hope and aim for.
+          Inshallah this is what I hope and aim for. 
+
+          1\. بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+          2\. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+          3\. الرَّحْمَٰنِ الرَّحِيمِ
+
+          4\. مَالِكِ يَوْمِ الدِّينِ
+
+          5\. إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+
+          6\. اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+
+          7\. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ
+          عَلَيْهِمْ وَلَا الضَّالِّينَ
 
         image:
           type: ImageBlock
