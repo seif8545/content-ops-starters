@@ -101,7 +101,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Good plan!
         altText: ''
         url: /
         showIcon: false
