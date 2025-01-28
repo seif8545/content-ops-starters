@@ -11,7 +11,7 @@
             {
                 "label": "Our Milestones",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Favorite things about you",
-                "url": "/pricing",
+                "url": "/things",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -27,7 +27,7 @@
             },
             {
                 "label": "What's Next",
-                "url": "/",
+                "url": "/next",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
