@@ -92,10 +92,9 @@ sections:
         title: Just how much you care and want to be successful.
         tagline: ''
         subtitle: ''
-        text: >+
-          You're there for everyone in your life, and it's appreciated more than
-          you know.
-
+        text: >
+          I may joke about it a lot, but I know how much it matters to you to be
+          punctual and serious, and I love that so much in you. I'm super proud!
         image:
           type: ImageBlock
           altText: Maria Walters
