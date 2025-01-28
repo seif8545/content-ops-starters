@@ -55,10 +55,10 @@ sections:
       - type: FeaturedItem
         title: Winter 2027
         subtitle: Engagementt
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Around the 9 year mark, to set up the next step for #10. Sounds fun!
+
+          Time for gift #1.
         image:
           type: ImageBlock
           altText: Featured icon two
