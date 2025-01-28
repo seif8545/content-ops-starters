@@ -21,7 +21,6 @@ sections:
           <div style="text-align: right">It's always nice to have a plan, and I
           want things like this. Inshallah this is what I hope and aim for.
 
-          `<div>`
 
           1\. بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
