@@ -119,8 +119,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          You're there for everyone in your life, and it's appreciated more than
-          you know.
+          It may sound cringey, but I genuinely laugh and enjoy my time with you
+          the most.
 
         image:
           type: ImageBlock
